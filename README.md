@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Imfodnof👋
+
+我是android开发者。
 
 <!--
 **Imfondof/imfondof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
