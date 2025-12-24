@@ -1,8 +1,8 @@
 ### Hi, I'm imfodnof👋
 
-我是android开发者。
+我是Flutter/Android开发者。
 
-快速访问：[Flutter](https://github.com/flutter/flutter),《[CS-Notes](https://github.com/CyC2018/CS-Notes)》，《[weekly](https://www.yuque.com/ruanyf/weekly)》
+快速访问：[Flutter](https://github.com/flutter/flutter),《[CS-Notes](https://github.com/CyC2018/CS-Notes)》，《[weekly]([https://www.yuque.com/ruanyf/weekly](https://github.com/ruanyf/weekly))》
 
 <!--
 **Imfondof/imfondof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
